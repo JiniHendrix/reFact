@@ -17,5 +17,7 @@ Node fs to read each file, then check for lifecycle methods. If none are present
 What about Pure Components?
 Might need to use enzyme or something to mount components and test them for different results?
 Should I just do both at the same time?
+Idea 2: Replace React.Component with React.PureComponent and check if any errors are thrown?
+
 
 I'm not too worried about performance as it's something users will run once or twice to check if they need to convert.

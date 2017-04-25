@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/JiniHendrix/reFact/issues"
   },
-  "homepage": "https://github.com/JiniHendrix/reFact#readme"
+  "homepage": "https://github.com/JiniHendrix/reFact#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "react": "^15.5.4"
+  }
 }
