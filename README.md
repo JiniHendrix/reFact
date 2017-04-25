@@ -4,9 +4,9 @@ React component performance optimizer
 ReFact parses through your React components and tells you what components can be refactored into either Pure Components or Stateless Functional Components for performance boosts.
 
 How to use:
-npm install refact
+npm install refact --save-dev
 or 
-yarn install refact
+yarn add -D refact
 
 Then in CLI use command
 refact path_to_component_directory
